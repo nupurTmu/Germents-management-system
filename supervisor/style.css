@@ -1,0 +1,56 @@
+.main_content{
+    height: 120vh;
+    width: 100%;
+}
+.navbar{
+    background-color: #0099CC;
+ }
+
+ .navbar li a{
+    color:white;
+    font-size: 20px;
+}
+.navbar li a:hover{
+    color:black;
+}
+img{
+    height: 80vh;
+}
+.margin-nav{
+    margin-left: 100px;
+}
+
+
+.login_page{
+    border:1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+/*
+.text{
+    color: rgb(173, 25, 99);
+}
+.group-production{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(248, 170, 170);
+    padding:20px ;
+}
+.group-production ul li{
+    list-style: none;
+    text-decoration: none;
+}
+.group-production ul a{
+    list-style: none;
+    text-decoration: none;
+}
+.group-production ul a:hover{
+   
+    color:rgb(14, 66, 116);
+    text-decoration: none;
+}
+.all_details h3 a{
+  text-decoration: none;
+  color: rgb(38, 102, 128);
+} */
